@@ -1,0 +1,8 @@
+C:\Users\szantai_gabor\Desktop\Projekt gráfok 30 zsákfalvak\Projekt gráfok 30 zsákfalvak\bin\Debug\Projekt gráfok 30 zsákfalvak.exe.config
+C:\Users\szantai_gabor\Desktop\Projekt gráfok 30 zsákfalvak\Projekt gráfok 30 zsákfalvak\bin\Debug\Projekt gráfok 30 zsákfalvak.exe
+C:\Users\szantai_gabor\Desktop\Projekt gráfok 30 zsákfalvak\Projekt gráfok 30 zsákfalvak\bin\Debug\Projekt gráfok 30 zsákfalvak.pdb
+C:\Users\szantai_gabor\Desktop\Projekt gráfok 30 zsákfalvak\Projekt gráfok 30 zsákfalvak\obj\Debug\Projekt gráfok 30 zsákfalvak.csproj.AssemblyReference.cache
+C:\Users\szantai_gabor\Desktop\Projekt gráfok 30 zsákfalvak\Projekt gráfok 30 zsákfalvak\obj\Debug\Projekt gráfok 30 zsákfalvak.csproj.SuggestedBindingRedirects.cache
+C:\Users\szantai_gabor\Desktop\Projekt gráfok 30 zsákfalvak\Projekt gráfok 30 zsákfalvak\obj\Debug\Projekt gráfok 30 zsákfalvak.csproj.CoreCompileInputs.cache
+C:\Users\szantai_gabor\Desktop\Projekt gráfok 30 zsákfalvak\Projekt gráfok 30 zsákfalvak\obj\Debug\Projekt gráfok 30 zsákfalvak.exe
+C:\Users\szantai_gabor\Desktop\Projekt gráfok 30 zsákfalvak\Projekt gráfok 30 zsákfalvak\obj\Debug\Projekt gráfok 30 zsákfalvak.pdb
